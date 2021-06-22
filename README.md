@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41278558/122877248-5d98eb00-d371-11eb-93d2-03a972403a45.gif
-">
+  <img src="https://user-images.githubusercontent.com/41278558/122877248-5d98eb00-d371-11eb-93d2-03a972403a45.gif">
 </p>
 <h3 align="center">
    Energy Consumption Analysis Chart<br>에너지 소비 휴율성 분석 차트
