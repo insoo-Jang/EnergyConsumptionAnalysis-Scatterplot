@@ -18,7 +18,8 @@
         "echarts": "^5.1.2",
         "i18next": "^19.3.3",
         "i18next-browser-languagedetector": "^2.2.3",
-        "lodash": "^4.17.10",
+        "lodash-es": "^4.17.21",
+        "moment": "^2.29.1",
         "prop-types": "^15.6.2",
         "react": "^16.13.1",
         "react-custom-scrollbars": "^4.2.1",
@@ -89,13 +90,13 @@
     "prettier": {
         "tabWidth": 4,
         "useTabs": false,
-        "printWidth": 80,
+        "printWidth": 120,
         "trailingComma": "all",
         "semi": false,
         "singleQuote": true,
         "jsxSingleQuote": false,
         "arrowParens": "always",
         "bracketSpacing": true,
-        "jsxBracketSameLine": false
+        "jsxBracketSameLine": true
     }
 }

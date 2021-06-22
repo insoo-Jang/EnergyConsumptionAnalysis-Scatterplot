@@ -12,7 +12,7 @@ const i18nClient = i18n
         load: 'all',
         whitelist: ['en', 'en-US', 'ko', 'ko-KR'],
         nonExplicitWhitelist: false,
-        lng: 'en-US',
+        lng: 'ko-KR',
         // lngs: ['en-US', 'ko-KR'],
         fallbackLng: 'en-US',
         interpolation: {
