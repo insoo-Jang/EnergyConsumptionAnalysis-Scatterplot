@@ -3,10 +3,18 @@
     "account": {},
     "admin": {},
     "common": {},
-    "action": {},
     "title": {
         "main": {
             "dashboard": "MAIN"
         }
+    },
+    "action": {
+        "ok": "OK"
+    },
+    "chart": {
+        "outside-air-temperature": "Outside Air Temperature",
+        "outside-air-humidity": "Outside air Humidity",
+        "total-energy-consumption": "Total Energy Consumption",
+        "title": "Energy Consumption Analysis"
     }
 }

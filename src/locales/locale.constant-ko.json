@@ -3,10 +3,18 @@
     "account": {},
     "admin": {},
     "common": {},
-    "action": {},
     "title": {
         "main": {
             "dashboard": "메인"
         }
+    },
+    "action": {
+        "ok": "확인"
+    },
+    "chart": {
+        "outside-air-temperature": "외기 온도",
+        "outside-air-humidity": "외기 습도",
+        "total-energy-consumption": "총 에너지 사용량",
+        "title": "에너지 소비 효율성 분석"
     }
 }
